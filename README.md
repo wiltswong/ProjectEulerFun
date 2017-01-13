@@ -1,2 +1,2 @@
 # ProjectEulerFun
-Code to practice on Project Euler problems
+Code to practice Project Euler problems
